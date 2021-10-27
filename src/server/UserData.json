@@ -1,0 +1,8 @@
+{
+    "User":[
+        {"email":"jhon@gmail.com","pass":"jhon1@123","name":"jhon","City":"Pune"},
+        {"email":"jhon1@gmail.com","pass":"jhon2@123","name":"marry","City":"mumbai"},
+        {"email":"jhon2@gmail.com","pass":"jhon3@123","name":"mark","City":"agra"},
+        {"email":"jhon3@gmail.com","pass":"jhon4@123","name":"tom","City":"bangalore"}
+    ]
+}
